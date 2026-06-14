@@ -25,7 +25,7 @@ Sử dụng **Playwright + Python** để kiểm thử hệ thống Mượn sác
 | --- | ---- | --------- | ----------- |
 | 1   |      |           | Nhóm trưởng |
 | 2   |      |           | Thành viên  |
-| 3   |   23BA14275   |  Nguyễn Anh Thư         | Thành viên  |
+| 3   |      |           | Thành viên  |
 | 4   |      |           | Thành viên  |
 
 ---
